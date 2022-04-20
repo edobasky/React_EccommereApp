@@ -42,3 +42,39 @@ export const categories = [
         title: "LIGHT JACKETS"
     }
 ]
+
+export const popularProducts = [
+    {
+        id:1,
+        img:"https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    {
+        id:2,
+        img:"https://i.pinimg.com/736x/48/1a/d6/481ad6a96e873ee72c8ebe6d42aeb920.jpg"
+    },
+    {
+        id:3,
+        img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png"
+    },
+    {
+        id:4,
+        img:"https://m.media-amazon.com/images/I/41G9ulMxOjL._AC._SR360,460.jpg"
+    },
+    {
+        id:5,
+        img:"https://cdn.cliqueinc.com/posts/286817/best-pajama-brands-286817-1587154002360-product.700x0c.jpg"
+    },
+    {
+        id:6,
+        img:"https://image.made-in-china.com/44f3j00IdKPErzDYaoj/Wholesale-High-Quality-Open-Weave-Hand-Knitting-Hollow-Straw-Hat-Women-Hat.jpg"
+    },
+    {
+        id:7,
+        img:"https://images.shcdn.de/resized/w1200/p/schnittmuster-kleid-burda-6238_6238_6.jpg"
+    },
+    {
+        id:8,
+        img:"https://i.pinimg.com/originals/f6/2b/89/f62b899e1eebf6a6f7ed5ab5b5bb8512.jpg"
+    },
+   
+]
