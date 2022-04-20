@@ -19,7 +19,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>EDORE.</Logo>
+          <Logo>UVIE.</Logo>
         </Center>
         <Right>
 
@@ -98,12 +98,12 @@ const MenuItem = styled.div`
   margin-left:25px;
 `
 
-const Cart = styled.div`
-  font-size:10px;
-  padding:0;
-  margin-bottom:10px;
+// const Cart = styled.div`
+//   font-size:10px;
+//   padding:0;
+//   margin-bottom:10px;
 
-`
+// `
 
 
 export default Navbar
